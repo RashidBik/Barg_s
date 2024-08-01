@@ -1,0 +1,82 @@
+{
+  "teamMembers": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "role": "Software Engineer",
+      "bio": "John is a passionate software engineer with expertise in web development.",
+      "image": "/images/john.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "role": "Frontend Developer",
+      "bio": "Jane specializes in building user-friendly and responsive frontend interfaces.",
+      "image": "/images/jane.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Alex Johnson",
+      "role": "Backend Developer",
+      "bio": "Alex is an experienced backend developer with a focus on performance optimization.",
+      "image": "/images/alex.jpg"
+    }
+  ],
+  "projects": [
+    {
+        "name": "حسابدار",
+        "logo": "http://",
+        "title": "",
+        "about": "",
+        "price": "",
+        "photos": []
+    },
+    {
+        "name":"مدیریت مطبعه",
+        "logo": "http://",
+        "title": "",
+        "about": "",
+        "price": "",
+        "photos": []
+    }, 
+    {
+        "name":"مدیریت مکتب",
+        "logo": "http://",
+        "title": "",
+        "about": "",
+        "price": "",
+        "photos": []
+    },
+    {
+        "name": "مدیریت دانشگاه",
+        "logo": "http://",
+        "title": "",
+        "about": "",
+        "price": "",
+        "photos": []
+    },
+    {
+        "name": "توناژ",
+        "logo": "http://",
+        "title": "",
+        "about": "",
+        "price": "",
+        "photos": []
+    }
+  ],
+  "services": [{
+        "title": "Service1",
+        "description": "Mongo Atlas, SQLite, Docker, ES6, Firebase, and Supabase. Skilled in bug fixing, design, and development. Possesses knowledge of Python, PHP, cloud computing, web3, 3js, Blender, and 3DMax. Collaborated with clients from Pakistan and Afghanistan.",
+        "icon_url": "http://heroicon.com",
+        "rank": 1
+    },{
+        "title": "Service3",
+        "description": "development. Possesses knowledge of Python, PHP, cloud computing, web3, 3js, Blender, and 3DMax. Collaborated with clients from Pakistan and Afghanistan.",
+        "icon_url": "http://iconforge.com",
+        "rank": 2
+    }],
+  "soldProductsCount": 0,
+  "whoWeWorkedWith": [],
+  "otherServices": [{"title": "","icon":""}],
+  "creativity": []
+}
